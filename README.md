@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LuizDoPc/luizdopc.github.io/blob/master/src/assets/header.png" width="100%"alt="Luiz Soares" usemap="#html"/>
-  
-  <map name="html">
-    <area shape="circle" coords="80,80,20" href="https://www.instagram.com/sarradaug" alt="Luiz's Instagram" target="_blank" />
-    <area shape="circle" coords="5,5,40,40" alt="Luiz's Linkedin" href="https://linkedin.com/in/luizotaviosoares/" target="_blank" />
-  </map>
+  <img src="https://github.com/LuizDoPc/luizdopc.github.io/blob/master/src/assets/header.png" width="100%"alt="Luiz Soares"/>
 <br>
 </p>
 
